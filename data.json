@@ -1,0 +1,9 @@
+{
+    "mesajlar": [
+        {
+            "id": "1",
+            "mesajGonderen": "Berresu Deniz",
+            "mesajIcerik": "Merhaba JSON"
+        }
+    ]
+}
